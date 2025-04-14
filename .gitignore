@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# Migrations (optional, see below)
+**/migrations/
+!**/migrations/__init__.py
+
+# VS Code stuff
+.vscode/
+
+# Pytest / test cache
+.cache/
+.coverage
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
