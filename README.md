@@ -48,9 +48,6 @@ A Django-based chat application that maintains conversation state, built on top 
 
 ## Project Notes
 
-Built on top of https://github.com/tomitokko/django-chatbot
-
-
 This project was built on top of [tomitokko/django-chatbot](https://github.com/tomitokko/django-chatbot) and includes significant modifications:
 - Added stateful chat functionality
 - Modified database schema for better conversation handling
